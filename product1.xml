@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<product id="P01">
+    <description>Product 01</description>
+    <imageUrl>http://example.com/product/1</imageUrl>
+    <price>10</price>
+    <createdBy>
+        <email>john@example.com</email>
+        <id>1</id>
+        <name>John</name>
+    </createdBy>
+</product>
